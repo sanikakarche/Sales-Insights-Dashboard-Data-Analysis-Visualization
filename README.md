@@ -110,6 +110,13 @@ The dataset consists of multiple tables:
 
 ---
 
+## 🎥 Dashboard Demo
+Video Demo: https://drive.google.com/file/d/1R_4gpTqpcnLCBtF9mXs6YUkqUGMXxS3-/view?usp=sharing
+
+## 🔗 Project Link
+
+GitHub: https://github.com/your-username/sales-insights-dashboard
+
 ## 📌 Conclusion
 
 This project demonstrates how raw data can be transformed into meaningful insights using SQL and Power BI. It highlights the importance of data visualization in business decision-making.
