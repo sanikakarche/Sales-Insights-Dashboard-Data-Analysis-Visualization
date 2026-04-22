@@ -115,7 +115,7 @@ Video Demo: https://drive.google.com/file/d/1R_4gpTqpcnLCBtF9mXs6YUkqUGMXxS3-/vi
 
 ## 🔗 Project Link
 
-GitHub: https://github.com/your-username/sales-insights-dashboard
+GitHub: https://github.com/sanikakarche/Sales-Insights-Dashboard-Data-Analysis-Visualization
 
 ## 📌 Conclusion
 
